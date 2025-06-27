@@ -1,9 +1,9 @@
 const config = {
   development: {
-    apiUrl: 'https://bakend-k6wm.onrender.com/api',
+    apiUrl: 'https://bakend-k6wm.onrender.com/',
   },
   production: {
-    apiUrl: 'https://bakend-k6wm.onrender.com/api',
+    apiUrl: 'https://bakend-k6wm.onrender.com/',
   },
 };
 
